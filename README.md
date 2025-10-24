@@ -8,4 +8,4 @@ rutaPostgres=jdbc:postgresql://localhost:5433/departamentos\
 usuarioMySQL=root\
 passwordMySQL=<password mysql>\
 usuarioPostgres=postgres\
-passwordPostgres=<password postgres>\
+passwordPostgres=<password postgres>
